@@ -1,0 +1,17 @@
+C:\Users\Owner\source\repos\ApiClientHelper\ApiClientHelper\bin\Debug\ApiClientHelper.dll
+C:\Users\Owner\source\repos\ApiClientHelper\ApiClientHelper\bin\Debug\ApiClientHelper.pdb
+C:\Users\Owner\source\repos\ApiClientHelper\ApiClientHelper\bin\Debug\ApiClientHelper.tlb
+C:\Users\Owner\source\repos\ApiClientHelper\ApiClientHelper\bin\Debug\System.Web.Mvc.dll
+C:\Users\Owner\source\repos\ApiClientHelper\ApiClientHelper\obj\Debug\ApiClientHelper.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\ApiClientHelper\ApiClientHelper\obj\Debug\ApiClientHelper.csproj.CopyComplete
+C:\Users\Owner\source\repos\ApiClientHelper\ApiClientHelper\obj\Debug\ApiClientHelper.dll
+C:\Users\Owner\source\repos\ApiClientHelper\ApiClientHelper\obj\Debug\ApiClientHelper.pdb
+D:\강지환 manager\2.source\ApiClientHelper\ApiClientHelper\bin\Debug\ApiClientHelper.dll
+D:\강지환 manager\2.source\ApiClientHelper\ApiClientHelper\bin\Debug\ApiClientHelper.pdb
+D:\강지환 manager\2.source\ApiClientHelper\ApiClientHelper\bin\Debug\ApiClientHelper.tlb
+D:\강지환 manager\2.source\ApiClientHelper\ApiClientHelper\bin\Debug\System.Web.Mvc.dll
+D:\강지환 manager\2.source\ApiClientHelper\ApiClientHelper\obj\Debug\ApiClientHelper.csproj.CoreCompileInputs.cache
+D:\강지환 manager\2.source\ApiClientHelper\ApiClientHelper\obj\Debug\ApiClientHelper.csproj.CopyComplete
+D:\강지환 manager\2.source\ApiClientHelper\ApiClientHelper\obj\Debug\ApiClientHelper.dll
+D:\강지환 manager\2.source\ApiClientHelper\ApiClientHelper\obj\Debug\ApiClientHelper.pdb
+D:\강지환 manager\2.source\ApiClientHelper\ApiClientHelper\obj\Debug\ApiClientHelper.csprojAssemblyReference.cache
